@@ -15,5 +15,5 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: public.ecr.aws/docker/library/nginx:alpine
+        image: public.ecr.aws/docker/library/httpd:alpine
 # 이 파일을 내 깃허브레포에 생성한다.
